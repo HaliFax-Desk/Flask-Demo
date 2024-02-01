@@ -1,0 +1,12 @@
+Text: monitor
+Image: picture (2).png
+Text: monitor
+Image: picture (1).png
+Text: ÄãºÃ°¡²âÊÔ£¡²âÊÔ£¡²âÊÔ£¡²âÊÔ£¡²âÊÔ£¡
+Image: picture.png
+Text: ²âÊÔ3£¡£¡²âÊÔ3£¡£¡²âÊÔ3£¡£¡²âÊÔ3£¡£¡
+Image: ÈË¼ä¸æ°×-by-½ðÓã½´.pdf
+Text: ²âÊÔ4£¡£¡²âÊÔ4£¡£¡²âÊÔ4£¡£¡²âÊÔ4£¡£¡
+Image: picture.png
+Text: °¡´ó¸çv
+Image: Taylor Swift - This Love (Karaoke Version).mp3

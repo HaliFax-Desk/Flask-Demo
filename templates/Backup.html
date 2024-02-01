@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>上传文本和图片</title>
+</head>
+<body>
+    <h1>上传文本和图片</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <p>按钮1</p>
+        <p>这是按钮1的解释文本。</p>
+        <img src="https://example.com/button1.jpg">
+        <br><br>
+        <p>按钮2</p>
+        <p>这是按钮2的解释文本。</p>
+        <img src="https://example.com/button2.jpg">
+        <br><br>
+        <p>按钮3</p>
+        <p>这是按钮3的解释文本。</p>
+        <img src="https://example.com/button3.jpg">
+        <br><br>
+        <label for="text">文本：</label>
+        <input type="text" name="text"><br><br>
+        <label for="image">图片：</label>
+        <input type="file" name="image"><br><br>
+        <input type="submit" value="上传">
+    </form>
+</body>
+</html>
